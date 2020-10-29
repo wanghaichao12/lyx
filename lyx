@@ -1,0 +1,14 @@
+<audio autoplay="autoplay" loop="loop" preload="auto"
+
+            	src="../static/voice/环游星空.mp3"></audio>
+    <a href="#" οnclick="delayURL('../SecondLucky/LuckyEvertime.html',1500)">
+<div class="pyro">
+<div class="before"></div>
+<div class="after"></div>
+</div>
+<h1>一辈子很短，如白驹过隙，转瞬即逝</h1>
+<h2>可这种心情很长，如高山大川，延绵不绝</h2>
+<span>22岁，祝你生日快乐，天天快乐刘铁头                                    </span>
+<div class="candle">
+<div id="flame" class="lit"></div>
+</div>                   
